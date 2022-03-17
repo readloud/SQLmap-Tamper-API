@@ -76,4 +76,4 @@ MySQL:
 tamper=between,bluecoat,charencode,charunicodeencode,concat2concatws,equaltolike,greatest,halfversionedmorekeywords,ifnull2ifisnull,modsecurityversioned,modsecurityzeroversioned,multiplespaces,nonrecursivereplacement,percentage,randomcase,securesphere,space2comment,space2hash,space2morehash,space2mysqldash,space2plus,space2randomblank,unionalltounion,unmagicquotes,versionedkeywords,versionedmorekeywords,xforwardedfor
 ~~~
 
-Here [lists of sqlmap Tamper scripts](#tamper-list.md) with explanation.
+Here [lists of sqlmap Tamper scripts](https://github.com/readloud/SQLmap-Tamper-API/blob/main/tamper-list.md) with explanation.

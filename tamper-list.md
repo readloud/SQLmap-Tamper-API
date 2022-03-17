@@ -1,4 +1,4 @@
-# SQLmap tamper scripts 
+# SQLMap Tamper Scripts (SQL Injection and WAF bypass) Tips
 
 General tamper option and tamper's list
 ```
